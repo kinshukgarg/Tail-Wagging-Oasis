@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(fileupload());
 
 const config = {
-    host: "127.0.0.1",
+    host: "localhost",
     user: "root",
     password: "Ilovecr7@",
     database: "second",
