@@ -11,7 +11,7 @@ app.use(fileupload());
 const config = {
     host: "127.0.0.1",
     user: "root",
-    password: "13131313",
+    password: "Ilovecr7@",
     database: "second",
     dateStrings: true,
 };
