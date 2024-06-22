@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "fileupload": "^0.2.1",
-    "fileuploader": "^1.2.7"
+    "express-fileupload": "^1.5.0",
+    "fileupload": "^1.0.0"
   }
 }
