@@ -1,0 +1,16 @@
+{
+  "name": "tail-wagging-oasis",
+  "version": "1.0.0",
+  "description": "Tail Wagging Oasis is more than just a project; it's a labor of love and dedication. Built with\r Bootstrap, Node.js, and SQL, this endeavor began as a challenging journey. Facing numerous obstacles at the outset, from coding complexities to troubleshooting hurdles, the process was undoubtedly daunting.\r However, through perseverance and a commitment to learning, each obstacle became an opportunity for growth. Today, Tail Wagging Oasis stands as a testament to overcoming challenges, with its seamless integration of HTML, CSS, and innovative web technologies. It's not just a project\r it's a testament to the power of determination and the joy of creating something truly remarkable.\r Starting a Node.js project involves setting up your development environment, including necessary tools and configurations. Below, I will guide you through the steps to set up a Node.js project using Visual Studio Code (VS Code) and SQL Workbench, along with configuring Node.js for version control with GitHub.",
+  "main": "server4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fileuploader": "^1.2.7"
+  }
+}
